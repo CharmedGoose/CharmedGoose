@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CharmedGoose
+- 👀 I’m interested in [Typescript](https://www.typescriptlang.org/), Javascript
+- 🌱 I’m currently learning [Typescript](https://www.typescriptlang.org/)
+- 💞️ I’m looking to collaborate on a [Discord.js](https://discord.js.org/#/) Pokemon Bot using the [Sapphire Framework](https://www.sapphirejs.dev/)
+- 📫 How to reach me charmedgoose1@gmail.com
